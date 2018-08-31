@@ -1,0 +1,20 @@
+﻿빌드 시작: 2017-05-17 오후 9:37:39
+     1>2 노드의 "C:\Users\DooHyun\Documents\자주 쓰는 것들\학교 문서들\3학년\1학기\운영체제\프로젝트\Dining Philosophers KDH\Dining Philosophers KDH\Dining Philosophers KDH.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Dining Philosophers KDH.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         모든 출력이 최신 상태입니다.
+       Manifest:
+         모든 출력이 최신 상태입니다.
+       FinalizeBuildStatus:
+         "Debug\Dining Philosophers KDH.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Dining Philosophers KDH.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\DooHyun\Documents\자주 쓰는 것들\학교 문서들\3학년\1학기\운영체제\프로젝트\Dining Philosophers KDH\Dining Philosophers KDH\Dining Philosophers KDH.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.07
