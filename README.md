@@ -4,7 +4,7 @@
 
 식사하는 철학자들 문제는 전산학에서 동시성과 교착 상태를 설명하는 예시로, 여러 프로세스가 동시에 돌아갈 때 교착 상태가 나타나는 원인을 직관적으로 알 수 있다.
 
-  ![그림입니다.  원본 그림의 이름: CLP000023940001.bmp  원본 그림의 크기: 가로 317pixel, 세로 282pixel](file:///C:\Users\DooHyun\AppData\Local\Temp\Hnc\BinData\EMB000024ac317e.bmp)  
+ ![image](https://user-images.githubusercontent.com/20302410/51963180-1363f600-24a6-11e9-8fa2-ca2b40589b1c.png)
 
 문제는 다음과 같다. 다섯 명의 철학자가 원탁에 앉아 있고, 식탁의 중앙에 스파게티가 있고, 양옆에 젓가락이 한 짝씩 있다. 그리고 각각의 철학자는 다른 철학자에게 말을 할 수 없다.(즉 서로 언제 먹을지 협상이 안 된다.) 이때, 철학자가 스파게티를 먹기 위해서는 양 옆의 젓가락 짝을 동시에 들고 있어야 한다.
 
@@ -104,9 +104,9 @@
 
 ## 6. 실행 화면
 
-![그림입니다.  원본 그림의 이름: CLP000024e80002.bmp  원본 그림의 크기: 가로 513pixel, 세로 632pixel](file:///C:\Users\DooHyun\AppData\Local\Temp\Hnc\BinData\EMB000024ac3191.bmp)  
+![image](https://user-images.githubusercontent.com/20302410/51963198-22e33f00-24a6-11e9-9fe4-f7d54d502302.png)
 
-![그림입니다.  원본 그림의 이름: CLP000024e80006.bmp  원본 그림의 크기: 가로 513pixel, 세로 681pixel](file:///C:\Users\DooHyun\AppData\Local\Temp\Hnc\BinData\EMB000024ac3192.bmp)  
+
 
 처음에 포크를 집는 순서를 보면 0, 1, 3번이다. 스레드를 0번부터 생성하자마자 동작시키기 때문에 예상한대로 0번 철학자가 먼저 포크를 집게 되었다. 2번 철학자는 1번 철학자가 먼저 포크를 집었기 때문에 다시 내려놓을 때까지 대기하므로 가장 마지막에 집게 되었다.
 
